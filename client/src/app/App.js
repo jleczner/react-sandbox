@@ -6,7 +6,7 @@ import Home from '../Home';
 
 import '../index.css';
 
-class App extends React.Component<{}, {}> {
+class App extends React.Component {
   render() {
     return (
       <div className='container-fluid center-block' style={{width: '80%', marginTop: '25vh'}}>
